@@ -1,0 +1,5 @@
+.NET Reactor log file
+---------------------
+
+---- Darkfuscator 1.03.exe ----
+

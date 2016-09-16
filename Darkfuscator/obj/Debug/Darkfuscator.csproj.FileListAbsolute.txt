@@ -1,0 +1,35 @@
+C:\Users\DarkSel\Documents\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkSel\Documents\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.frmMain.resources
+C:\Users\DarkSel\Documents\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.Properties.Resources.resources
+C:\Users\DarkSel\Documents\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.csproj.GenerateResource.Cache
+C:\Users\DarkSel\Documents\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\bin\Debug\Darkfuscator.exe
+C:\Users\DarkSel\Documents\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\bin\Debug\Darkfuscator.pdb
+C:\Users\DarkSel\Documents\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.exe
+C:\Users\DarkSel\Documents\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.pdb
+C:\Users\DarkSel\Documents\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\bin\Debug\GlassButtonVB.xml
+C:\Users\DarkSel\Documents\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.frmAbout.resources
+C:\Users\DarkSel\Documents\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.frmLicense.resources
+F:\Documents\Files\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.exe
+F:\Documents\Files\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.pdb
+F:\Documents\Files\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\bin\Debug\Darkfuscator.exe
+F:\Documents\Files\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\bin\Debug\Darkfuscator.pdb
+F:\Documents\Files\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\bin\Debug\GlassButtonVB.xml
+F:\Documents\Files\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents\Files\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.frmAbout.resources
+F:\Documents\Files\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.frmLicense.resources
+F:\Documents\Files\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.frmMain.resources
+F:\Documents\Files\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.Properties.Resources.resources
+F:\Documents\Files\Visual Studio 2008\Projects\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.csproj.GenerateResource.Cache
+C:\Users\DarkSel\Desktop\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.exe
+C:\Users\DarkSel\Desktop\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.pdb
+C:\Users\DarkSel\Desktop\Darkfuscator\Darkfuscator\bin\Debug\Darkfuscator.exe
+C:\Users\DarkSel\Desktop\Darkfuscator\Darkfuscator\bin\Debug\Darkfuscator.pdb
+C:\Users\DarkSel\Desktop\Darkfuscator\Darkfuscator\bin\Debug\GlassButtonVB.xml
+C:\Users\DarkSel\Desktop\Darkfuscator\Darkfuscator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkSel\Desktop\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.frmAbout.resources
+C:\Users\DarkSel\Desktop\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.frmLicense.resources
+C:\Users\DarkSel\Desktop\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.frmMain.resources
+C:\Users\DarkSel\Desktop\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.Properties.Resources.resources
+C:\Users\DarkSel\Desktop\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.csproj.GenerateResource.Cache
+E:\Win_Backups\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.exe
+E:\Win_Backups\Darkfuscator\Darkfuscator\obj\Debug\Darkfuscator.pdb
